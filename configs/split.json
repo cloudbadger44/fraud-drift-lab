@@ -1,0 +1,7 @@
+{
+  "train_start_day": 1,
+  "val_start_day": 61,
+  "test_start_day": 91,
+  "end_day": 183,
+  "checkpoint_days": 7
+}

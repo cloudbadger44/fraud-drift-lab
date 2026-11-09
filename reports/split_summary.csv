@@ -1,0 +1,4 @@
+,transactions,fraud,first_dt,last_dt,fraud_rate_pct
+train,223738,6978,86400,5270398,3.12
+val,92189,3724,5270451,7862394,4.04
+test,274613,9961,7862402,15811131,3.63
